@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# 牛X SEO-网站开通
 
-You can use the [editor on GitHub](https://github.com/wuyouseo/blog.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 为成为牛X的SEO大神，必先利期器！www.niuxseo.cn
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+本网页是托管在'github.com'服务器中的网页文档，用来展示作者的信息及域名出售信息；
+作者博客主页'www.ainiseo.com （'关闭中不定期开放）
 
-### Markdown
+## 本域名及以下域名打算出售，适合做SEO行业网站或博客的朋友，有兴趣请联系我。【TOP寓意】 ##
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- （牛X的SEO技术-拥有此域名 ）www.niuxseo.cn
+- （急速排名，快速上首页排名）www.jisuseo.top
+- （SEO技术好叼，SEO大神必备）www.seodiao.top
+- （大牛SEO人-绝配TOP域名上首页）www.niuxseo.top
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wuyouseo/blog.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+联系QQ 3002015859
+微信：tzvip2017
